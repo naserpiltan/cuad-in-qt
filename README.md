@@ -1,5 +1,5 @@
 # cuad-in-qt
-First project in using cuda toolkit in Qt framework
+First project in using cuda toolkit in Qt framework.
 In this project i used the solution of this link :
 https://cudaspace.wordpress.com/2012/07/05/qt-creator-cuda-linux-review/
 And used this solution to solve bulding problem :
